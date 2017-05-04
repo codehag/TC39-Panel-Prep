@@ -2,7 +2,7 @@
 
 - What is TC39? (see if there is someone willing to give a quick intro)
 
-- ECMAScript has a rolling release that takes place in four stages, lets talk a bit about each of
+- ECMAScript has a release cycle that has four stages, lets talk a bit about each of
 these stages and what is involved.
 
 - (regarding stage 3) Browsers and transpilers play a pretty important roll in testing out a new
