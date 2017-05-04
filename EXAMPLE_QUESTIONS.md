@@ -65,7 +65,7 @@ feature. Lets talk a bit about the role that community plays
 
 - what is the feature you are most excited for? What would you like to see implemented?
 
-## Community involvement:
+### Community involvement:
 
 - Ideally, where would you see the work by the TC39 going? How do you see the community developing?
 
