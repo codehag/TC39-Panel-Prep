@@ -39,7 +39,7 @@ feature. Lets talk a bit about the role that community plays
 - There are a lot of features that get worked on but do not necessarily make it to the
   language, and it would be interesting to discuss these as not failures, but learning
   points. Is there an example of an interesting feature that didn't make it into the
-  language, or was depricated. In my experience, one such example is object.observe.
+  language, or was depricated. In my experience, one such example is object.observe. some other examples are listed online [in the github page](https://github.com/tc39/proposals/blob/master/inactive-proposals.md)
   Why it is a benefit (or a detriment) that it didnt make it in to the language specification?
   What is the process of deciding that "gee it doesnt work the way we wanted it to" and what
   can we take away from those moments?
