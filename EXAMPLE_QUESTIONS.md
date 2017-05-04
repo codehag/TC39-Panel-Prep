@@ -24,6 +24,8 @@ feature. Lets talk a bit about the role that community plays
   parties pushing for their interests to be added to the spec. How are vendors, such as browsers,
   influencing the development of new features? How do you balance the needs of JS developers and
   vendors?
+  
+- As a follow up question to how communities and the specification interact, how is building a specification different from doing opensource work? 
 
 - Jan Krutisch has an interesting talk ( or talk proposal) about the aesthetics of code.
   Aesthetics are important, they have a lot to do with the human experience of coding. How\
