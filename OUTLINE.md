@@ -17,7 +17,7 @@ Estimated time: 5-10 minutes
 _Purpose: Get into some interesting discussions. This will be pretty free-form. We could gently
 ramp into the discussion by starting with some personal experience stuff and then move into
 technical territory._
-Estimated time: 40-45 minutes
+Estimated time: 15-20 minutes
 
 ### Topics:
 - what is your experience working on new features for the language (how did you get involved,
