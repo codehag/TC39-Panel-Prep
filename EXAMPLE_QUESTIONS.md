@@ -2,7 +2,7 @@
 
 - What is TC39? (see if there is someone willing to give a quick intro)
 
-- ECMAScript has a rolling release that takes place in four stages, lets talk a bit about each of
+- ECMAScript has a release cycle that has four stages, lets talk a bit about each of
 these stages and what is involved.
 
 - (regarding stage 3) Browsers and transpilers play a pretty important roll in testing out a new
@@ -24,6 +24,8 @@ feature. Lets talk a bit about the role that community plays
   parties pushing for their interests to be added to the spec. How are vendors, such as browsers,
   influencing the development of new features? How do you balance the needs of JS developers and
   vendors?
+  
+- As a follow up question to how communities and the specification interact, how is building a specification different from doing opensource work? 
 
 - Jan Krutisch has an interesting talk ( or talk proposal) about the aesthetics of code.
   Aesthetics are important, they have a lot to do with the human experience of coding. How\
@@ -39,7 +41,7 @@ feature. Lets talk a bit about the role that community plays
 - There are a lot of features that get worked on but do not necessarily make it to the
   language, and it would be interesting to discuss these as not failures, but learning
   points. Is there an example of an interesting feature that didn't make it into the
-  language, or was depricated. In my experience, one such example is object.observe.
+  language, or was depricated. In my experience, one such example is object.observe. some other examples are listed online [in the github page](https://github.com/tc39/proposals/blob/master/inactive-proposals.md)
   Why it is a benefit (or a detriment) that it didnt make it in to the language specification?
   What is the process of deciding that "gee it doesnt work the way we wanted it to" and what
   can we take away from those moments?
