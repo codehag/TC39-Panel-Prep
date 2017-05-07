@@ -2,25 +2,26 @@
 This draft contains the flow of the panel, plus potential questions that might be used to move it
 along.
 
-*Important Note on Panel Flow*
+**Important Note on Panel Flow**
+
 Since we only have 25 minutes, I will use a hand gesture to signal you if we need to move on or give someone a chance to speak.
 Make sure to glance at me every now and then to see if I am signaling.
 
-Gesture: *I will raise my hand while holding the pen.*
+Gesture: **I will raise my hand while holding the pen.**
 
 When you see this, please round off your point as best as possible with one or two sentences.
 
-# Gentle intro:
+## Gentle intro:
 _Purpose: Get the audience up to speed, so that no one feels left behind._
 Estimated time: 10~ minutes
 
-## Topics:
+### Topics:
 - What is TC39 and what does it do?
 - Who are the members?
 - what is your experience working on new features for the language (how did you get involved,
   features you feel strongly about, etc)
 
-### (Community) Questions:
+#### (Community) Questions:
 - What is TC39 and what does it do?
 - What is a standard? What is the JavaScript Standard?
 - The release process of adding a new feature has changed, can you talk a bit about how it has been updated?
@@ -28,19 +29,19 @@ Estimated time: 10~ minutes
 - what is your experience working on new features for the language (how did you get involved,
   features you feel strongly about, etc)
 
-# In-depth discussion:
+## In-depth discussion:
 _Purpose: Get into some interesting discussions. This will be pretty free-form. We could gently
 ramp into the discussion by starting with some personal experience stuff and then move into
 technical territory._
 Estimated time: 10~ minutes
 
-## Topics:
+### Topics:
 - what is the collaborative process like?
 - What are the main language features that are under development?
 - Technical questions (and twitter sourced questions)
 - what are some interesting examples of things that didnt work, and what were the take aways?
 
-### Community Questions
+#### Community Questions
 
 - what's the state of the "bind operator" and what needs to be done to advance it?, Tobias Bieniek @TobiasBieniek
 
@@ -51,12 +52,12 @@ Estimated time: 10~ minutes
 
 - What are they doing to become more visible and better connected with the community of developers using JavaScript? (there’s a better way to phrase it i’m sure)
 
-# Getting people excited:
+## Getting people excited:
 _Purpose: Round off the discussion, and get the community excited about the work that is being
 done._
 Estimated time: 10~ minutes
 
-## Topics
+### Topics
 - How is the community involved? How can it be more involved?
 - where would you like to see the committee go in the future?
 - What are some issues that the community faces in terms of its structural makeup, such as who is
@@ -64,7 +65,7 @@ Estimated time: 10~ minutes
 - Where do you see the community in the future?
 - how can we help?
 
-### Community Questions
+#### Community Questions
 - What is the best way to make an impact on a proposal or a feature?
 
 
@@ -123,7 +124,7 @@ feature. Lets talk a bit about the role that community plays
   What is the process of deciding that "gee it doesnt work the way we wanted it to" and what
   can we take away from those moments?
 
-### Technical questions: (not too sure about this)
+### Technical questions:
 
 - An exciting new feature that is upcoming is Shared array buffer, also discussed by
   Nidin Vinayakin.This is a particularly interesting development because it allows
