@@ -1,3 +1,77 @@
+# Final Draft
+This draft contains the flow of the panel, plus potential questions that might be used to move it
+along.
+
+*Important Note on Panel Flow*
+Since we only have 25 minutes, I will use a hand gesture to signal you if we need to move on or give someone a chance to speak.
+Make sure to glance at me every now and then to see if I am signaling.
+
+Gesture: *I will raise my hand while holding the pen.*
+
+When you see this, please round off your point as best as possible with one or two sentences.
+
+# Gentle intro:
+_Purpose: Get the audience up to speed, so that no one feels left behind._
+Estimated time: 10~ minutes
+
+## Topics:
+- What is TC39 and what does it do?
+- Who are the members?
+- what is your experience working on new features for the language (how did you get involved,
+  features you feel strongly about, etc)
+
+### (Community) Questions:
+- What is TC39 and what does it do?
+- What is a standard? What is the JavaScript Standard?
+- The release process of adding a new feature has changed, can you talk a bit about how it has been updated?
+- How did you start working with the TC39?
+- what is your experience working on new features for the language (how did you get involved,
+  features you feel strongly about, etc)
+
+# In-depth discussion:
+_Purpose: Get into some interesting discussions. This will be pretty free-form. We could gently
+ramp into the discussion by starting with some personal experience stuff and then move into
+technical territory._
+Estimated time: 10~ minutes
+
+## Topics:
+- what is the collaborative process like?
+- What are the main language features that are under development?
+- Technical questions (and twitter sourced questions)
+- what are some interesting examples of things that didnt work, and what were the take aways?
+
+### Community Questions
+
+- what's the state of the "bind operator" and what needs to be done to advance it?, Tobias Bieniek @TobiasBieniek
+
+
+- Navigating the JS perf minefield is hard, and explaining it to others is harder. What can we do to improve this, Mike North @michaellnorth
+
+- What did happen to Operator Overloading in ES? Wikipedia claims it’s on for ES8, but I can’t find a proposal? #tc39qs, & 0x0F @halfbyte
+
+- What are they doing to become more visible and better connected with the community of developers using JavaScript? (there’s a better way to phrase it i’m sure)
+
+# Getting people excited:
+_Purpose: Round off the discussion, and get the community excited about the work that is being
+done._
+Estimated time: 10~ minutes
+
+## Topics
+- How is the community involved? How can it be more involved?
+- where would you like to see the committee go in the future?
+- What are some issues that the community faces in terms of its structural makeup, such as who is
+  part of the panel and who is heard?
+- Where do you see the community in the future?
+- how can we help?
+
+### Community Questions
+- What is the best way to make an impact on a proposal or a feature?
+
+
+# Moderator Extra Questions
+These questions will be used if we are going too fast and need to fill out a block of time somehow
+(or if I end up brain dead and cannot formulate a question on the fly!)
+
 These are My questions:
 
 
