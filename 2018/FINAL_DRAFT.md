@@ -13,27 +13,36 @@ When you see this, please round off your point as best as possible with one or t
 
 ## Gentle intro:
 _Purpose: Get the audience up to speed, so that no one feels left behind._
-Estimated time: 10~ minutes
+
+Estimated time: 5~ minutes
 
 ### Topics:
+- Name, who you represent, feature you are most excited about
 - What is TC39 and what does it do?
-- Who are the members?
+- four stages quickly
 - what is consensus?
-- what is your experience working on new features for the language (how did you get involved,
-  features you feel strongly about, etc)
 
 #### (Community) Questions:
 
-- @chekofif
-  Where does the line between library and language feature get drawn? For example, should, or not, observable be added to the standard?#tc39qs
+- Patrick Brosset
+@patrickbrosset
+What are some of the most exciting features coming next? #tc39panel
 
-- How do you read proposals? Lupe
+- selbekk @
+@selbekk
+What’s your favorite JavaScript function? #tc39panel
+
+- Moritz
+@moritz_kn
+is javascript evolving at the right speed? Are new features sufficiently integrated with other new and existing features?
+
 
 ## In-depth discussion:
 _Purpose: Get into some interesting discussions. This will be pretty free-form. We could gently
 ramp into the discussion by starting with some personal experience stuff and then move into
 technical territory._
-Estimated time: 10~ minutes
+
+Estimated time: 15~ minutes
 
 ### Topics:
 - What are the main language features that are under development?
@@ -43,46 +52,54 @@ Estimated time: 10~ minutes
 
 #### Community Questions
 
-##### Class related questions
+- Date.parse() wasn't working on IOS due to how the string was formatted. Who is right: V8 or JSC? https://github.com/jsconf/2018.jsconf.eu/pull/238/files
+
+_class stuff_
+
 -  I saw this article http://2ality.com/2012/07/esnext-classes.html but since class and prototype work differently and prototype cannot imitate everything from classes, I wonder if it is really just syntactic sugar or since they work the same it should be considered as syntactic sugar. #tc39panel
 
 - Sona Leeojosoeun May 30
   After reading this document(https://github.com/tc39/proposal-private-methods … …), I wanted to know why the “#” sign is used to express private. Most other language use “private” keyword to express private #tc39panel
 
-##### General Questions (from last year)
-- Any plans for a general-purpose abort/cancellation primitive in JavaScript? We now have AbortSignal on the web to abort an ongoing fetch, but there’s no equivalent in Node. @jsconfeu #tc39panel Mattias Buelens@MattiasBuelens
+- Can we have something like a module keyword to make bundling a first class citizen of JS, and to
+  allow a single JS file to expose multiple modules as an interface?
 
 - Navigating the JS perf minefield is hard, and explaining it to others is harder. What can we do to improve this, Mike North @michaellnorth
 
-- What did happen to Operator Overloading in ES? Wikipedia claims it’s on for ES8, but I can’t find a proposal? #tc39qs, & 0x0F
+- #tc39panel can you explain when you expect to raise optional chaining to stage 2 - so a general status about this feature :)
 
-## This last year ...
-_Purpose: Discuss some things that came up in the last year, and how the committee is handling them_
+- Hendrik Niemann @ Jsconf
+@hendrik_niemann
+Typescript, ReasonML, PureScript, Babel, ...; JavaScript has become the target of many compilers. How much does this fact influence your work and the language in general? @jsconfeu #tc39panel
+
+- Jan van den Berg
+@renderslender
+Is Typescript the future of JavaScript? #tc39panel Otherwise said are types ever going to be incorporated in ECMAScript?
+
+- Hey @jsconfeu #tc39panel, Ryan dhal laid out his biggest node regrets yesterday. What is your biggest JavaScript regrets?
+
+## Community
+_Purpose: Round off the discussion, and get the community excited about the work that is being
+done._
+
 Estimated time: 5~ minutes
 
 ### Topics
-- Smoosh -> flat
-- Shared array buffer
+- Smoosh -> flat * maybe
 - A better line of communication with developers
 
 #### Community Questions
 
-- none so far
+- Patrick Brosset
+@patrickbrosset
+Hey TC39, where do I keep up with updates? Do you have a website? #tc39panel
 
-## Getting people excited:
-_Purpose: Round off the discussion, and get the community excited about the work that is being
-done._
-Estimated time: 10~ minutes
+- Nicola Zanon
+@ZanonNicola
+Is there a way/tool/webpage where you can visualy track all the new proposals through out the maturity stages? Maybe with the relative polyfill or babel plugin #tc39panel @jsconfeu
 
-### Topics
-- How is the community involved? How can it be more involved?
-- where would you like to see the committee go in the future?
-- What are some issues that the community faces in terms of its structural makeup, such as who is
-  part of the panel and who is heard?
-- Where do you see the community in the future?
-- how can we help?
 
-#### Community Questions
+- how does someone from the outside get involved?
 
 - Question from last year: Christian Kaestner speaking about how communities influence api's. Lets talk a bit about the roll of
   the community of developers around JS and how they influence the process for introducing features.
@@ -90,6 +107,7 @@ Estimated time: 10~ minutes
   parties pushing for their interests to be added to the spec. How are vendors, such as browsers,
   influencing the development of new features? How do you balance the needs of JS developers and
   vendors?
+
 
 # Moderator Extra Questions
 These questions will be used if we are going too fast and need to fill out a block of time somehow
@@ -112,18 +130,6 @@ feature. Lets talk a bit about the role that community plays
 
 - Let's start from a personal perspective, how did you start workin on the ECMA / JavaScript spec?
   What is your story?
-
-- a few of the conference speakers bring up how javascript has developed, and how the community
-  has influenced that development. We have the talk by Harriet Lawrence about the
-  sociolinguistics and the javascript community, any thoughts on this in relation to your work on the
-  TC39?
-
-- Christian Kaestner speaking about how communities influence api's. Lets talk a bit about the roll of
-  the community of developers around JS and how they influence the process for introducing features.
-  With a project such as creating the spec for a language like JS, there are a lot of interested
-  parties pushing for their interests to be added to the spec. How are vendors, such as browsers,
-  influencing the development of new features? How do you balance the needs of JS developers and
-  vendors?
 
 - As a follow up question to how communities and the specification interact, how is building a specification different from doing opensource work?
 
