@@ -24,17 +24,19 @@ Estimated time: 5~ minutes
 
 #### (Community) Questions:
 
-- Patrick Brosset
-@patrickbrosset
-What are some of the most exciting features coming next? #tc39panel
-
-- selbekk @
-@selbekk
-What’s your favorite JavaScript function? #tc39panel
+##### Long answers
 
 - Moritz
 @moritz_kn
 is javascript evolving at the right speed? Are new features sufficiently integrated with other new and existing features?
+
+- Mark Doeswijk
+@Qwerios
+with all the new operators and features being added is JavaScript at risk of becoming too cryptic syntax wise for new developers? I'm very much in favor of them but web development being very approachable is a big boon
+
+- Iulia
+@iulia_tweets
+where do you see javascript standing identity wise in the future compared to other non strong typed programming languages? Eg more OO concepts like es6 classes or more functional?
 
 
 ## In-depth discussion:
@@ -42,7 +44,7 @@ _Purpose: Get into some interesting discussions. This will be pretty free-form. 
 ramp into the discussion by starting with some personal experience stuff and then move into
 technical territory._
 
-Estimated time: 15~ minutes
+Estimated time: 12~ minutes
 
 ### Topics:
 - What are the main language features that are under development?
@@ -51,9 +53,6 @@ Estimated time: 15~ minutes
 - Proposal sepecific questions from the community
 
 #### Community Questions
-
-- Date.parse() wasn't working on IOS due to how the string was formatted. Who is right: V8 or JSC? https://github.com/jsconf/2018.jsconf.eu/pull/238/files
-
 _class stuff_
 
 -  I saw this article http://2ality.com/2012/07/esnext-classes.html but since class and prototype work differently and prototype cannot imitate everything from classes, I wonder if it is really just syntactic sugar or since they work the same it should be considered as syntactic sugar. #tc39panel
@@ -64,10 +63,6 @@ _class stuff_
 - Can we have something like a module keyword to make bundling a first class citizen of JS, and to
   allow a single JS file to expose multiple modules as an interface?
 
-- Navigating the JS perf minefield is hard, and explaining it to others is harder. What can we do to improve this, Mike North @michaellnorth
-
-- #tc39panel can you explain when you expect to raise optional chaining to stage 2 - so a general status about this feature :)
-
 - Hendrik Niemann @ Jsconf
 @hendrik_niemann
 Typescript, ReasonML, PureScript, Babel, ...; JavaScript has become the target of many compilers. How much does this fact influence your work and the language in general? @jsconfeu #tc39panel
@@ -75,6 +70,12 @@ Typescript, ReasonML, PureScript, Babel, ...; JavaScript has become the target o
 - Jan van den Berg
 @renderslender
 Is Typescript the future of JavaScript? #tc39panel Otherwise said are types ever going to be incorporated in ECMAScript?
+
+- doberkofler
+@doberkofler
+Static typing has become quite popular in JS. Should tc39 not standardize the type definition syntax?
+
+- #tc39panel @jsconfeu What are the plans for value types?
 
 - Hey @jsconfeu #tc39panel, Ryan dhal laid out his biggest node regrets yesterday. What is your biggest JavaScript regrets?
 
@@ -90,6 +91,18 @@ Estimated time: 5~ minutes
 
 #### Community Questions
 
+
+- Markus Klug
+ @opus131
+could you share your perspective on the flatten vs smooch debate?
+
+- Søren Bruus Frank
+@soerenbf
+When writing up new features, where do you look most for inspiration? Is it other languages (and which?) or is it mostly driven by requests from the community? #tc39panel
+
+- how does someone from the outside get involved?
+
+_website_
 - Patrick Brosset
 @patrickbrosset
 Hey TC39, where do I keep up with updates? Do you have a website? #tc39panel
@@ -99,15 +112,50 @@ Hey TC39, where do I keep up with updates? Do you have a website? #tc39panel
 Is there a way/tool/webpage where you can visualy track all the new proposals through out the maturity stages? Maybe with the relative polyfill or babel plugin #tc39panel @jsconfeu
 
 
-- how does someone from the outside get involved?
 
-- Question from last year: Christian Kaestner speaking about how communities influence api's. Lets talk a bit about the roll of
-  the community of developers around JS and how they influence the process for introducing features.
-  With a project such as creating the spec for a language like JS, there are a lot of interested
-  parties pushing for their interests to be added to the spec. How are vendors, such as browsers,
-  influencing the development of new features? How do you balance the needs of JS developers and
-  vendors?
+##### Rapid fire (one word answers)
 
+Estimated Time: 3~ minutes
+
+- Date.parse() wasn't working on IOS due to how the string was formatted. Who is right: V8 or JSC? https://github.com/jsconf/2018.jsconf.eu/pull/238/files
+
+- Patrick Brosset
+@patrickbrosset
+What are some of the most exciting features coming next? #tc39panel
+
+- selbekk @
+@selbekk
+What’s your favorite JavaScript function? #tc39panel
+
+- tastenjesus
+@michel_albers
+localStoarage between subdomains would be awesome
+
+- tastenjesus
+@michel_albers
+@jsconfeu #tc39panel How about a native method for deep object cloning?
+
+- Iulia
+@iulia_tweets
+would love to have a non expensive, non-library deep object comparison, any hope on that?
+
+- Iulia
+@iulia_tweets
+what's the mediam turnaround for a proposal becoming reality time wise? do all proposals follow the same procedure/timeline?
+
+- #tc39panel can you explain when you expect to raise optional chaining to stage 2 - so a general status about this feature :)
+
+- Nicola Zanon
+🚀 @JSconf
+ @ZanonNicola
+Can we use emoji in a function declaration?
+```
+function 🥨(args) {
+  return ‘🤤’;
+}
+```
+
+- @tc39 #tc39panel Could you tell us an interesting gotcha, if any, about a new upcoming feature, which a new developer might not realize easily
 
 # Moderator Extra Questions
 These questions will be used if we are going too fast and need to fill out a block of time somehow
