@@ -22,8 +22,7 @@ Estimated time: 5~ minutes
 - four stages quickly
 - what is consensus?
 
-### Intro:
-
+### Questions to discuss:
 - ECMAScript has a release cycle that has four stages, lets talk a bit about each of
 these stages and what is involved.
 
@@ -31,7 +30,8 @@ these stages and what is involved.
 feature. Lets talk a bit about the role that community plays
 
 
-### Community Questions:
+## Community Questions:
+Estimated time: 15~ minutes
 
 - asked in person - What is the organization behind tc39?
 
@@ -78,3 +78,7 @@ the year that they come out. why is that?
 
 * Mark Doeswijk with all the new operators and features being added is JavaScript at risk of becoming too cryptic syntax wise for new developers? I'm very much in favor of them but web development being very approachable is a big boon
 
+## Extra topics
+
+* New es discourse
+* Experimentation survey
