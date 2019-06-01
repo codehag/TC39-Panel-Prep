@@ -14,7 +14,7 @@ When you see this, please round off your point as best as possible with one or t
 ## Gentle intro:
 _Purpose: Get the audience up to speed, so that no one feels left behind._
 
-Estimated time: 5~ minutes
+Estimated time: 10~ minutes
 
 ### Topics:
 - Name, who you represent, feature you are most excited about
@@ -23,17 +23,31 @@ Estimated time: 5~ minutes
 - what is consensus?
 
 ### Questions to discuss:
+Estimated time: 15~ minutes
+
+- asked in person - What is the organization behind tc39?
+
+Anyone can answer
+
 - ECMAScript has a release cycle that has four stages, lets talk a bit about each of
 these stages and what is involved.
+
+Suggestion: Jason Williams talks about his experience getting Promise.allSettled through the process
 
 - (regarding stage 3) Browsers and transpilers play a pretty important roll in testing out a new
 feature. Lets talk a bit about the role that community plays
 
+Suggestion: Henry talks a bit about babel
+
+- (regarding test 262) How do we know how well the spec is implemented?
+
+Suggestion: Valerie Young talks about test 262
+
+- Recent changes to the TC39
+
+New es discourse - Aki introduces it
 
 ## Community Questions:
-Estimated time: 15~ minutes
-
-- asked in person - What is the organization behind tc39?
 
 #### What the committee looks like
 
@@ -41,18 +55,18 @@ Estimated time: 15~ minutes
 
 #### How long to standardize
 
-* I have seen proposal in may 2018 with a publication date of 2019, and other proposals are published
+* Sérgio Vinícius - I have seen proposal in may 2018 with a publication date of 2019, and other proposals are published
 the year that they come out. why is that?
 
 * how long on average does it take to standardize a proposal
 
 * what's the medium turnaround for a proposal becoming reality time wise? do all proposals follow the same procedure/timeline?
 
+#### specific proposals
+
 * Nikhil Ranjan - when are we getting a standard library for javascript?
 
 * Why don’t you standardize lodash
-
-#### specific proposals
 
 * Willian Martins - I've not seen any movements on pattern matching proposal, is this proposal in idle state? Also if this proposal lands as a statement, what will be the heuristics to decide when using it or a chain of if/else? Do you think to have PM as an expression would be more beneficial?
 
@@ -80,5 +94,4 @@ the year that they come out. why is that?
 
 ## Extra topics
 
-* New es discourse
 * Experimentation survey
